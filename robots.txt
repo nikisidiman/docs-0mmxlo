@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4aezmk.goib138.site/sitemap.xml
